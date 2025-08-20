@@ -9,7 +9,7 @@
   "[jupyter]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
-  "editor.fontSize": 18,
+  "editor.fontSize": 12,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.restoreWindows": "preserve",
   "workbench.editorAssociations": {
